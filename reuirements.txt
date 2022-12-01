@@ -1,0 +1,3 @@
+#recommended
+numpy                        1.21.4
+turtles                      1.0.0
