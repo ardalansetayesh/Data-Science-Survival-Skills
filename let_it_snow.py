@@ -1,6 +1,6 @@
 import turtle
 import numpy as np
-
+import random
 
 def main(speed=0, bg_color="grey"):
     # create Turtle object
@@ -13,9 +13,8 @@ def main(speed=0, bg_color="grey"):
     turtle_screen.bgcolor(bg_color)
   
  
-import turtle
-import numpy as np
-import random
+
+
 
 colors=['red','blue','green','yellow','black','purple','brown','orange','blue','pink','white'] #changes
 def main(speed=0, bg_color="grey"):
