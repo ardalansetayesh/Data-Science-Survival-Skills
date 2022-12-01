@@ -17,7 +17,7 @@ import turtle
 import numpy as np
 import random
 
-colors=['red','blue','green','yellow','black','purple','brown','orange','blue','pink','white'] #chan
+colors=['red','blue','green','yellow','black','purple','brown','orange','blue','pink','white'] #changes
 def main(speed=0, bg_color="grey"):
     # create Turtle object
     turtle_screen = turtle.Screen()
